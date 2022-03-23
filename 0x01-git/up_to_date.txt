@@ -1,0 +1,1 @@
+git clone, git add, git commit -m [text], git push, git pull, git branch, git checkout [branch], git checkout -b [branch] , git push
